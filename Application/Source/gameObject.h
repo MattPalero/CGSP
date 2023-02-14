@@ -1,3 +1,5 @@
+#ifndef GAME_OBJECT_H
+#define GAME_OBJECT_H
 
 // GLM Headers
 #include <glm\glm.hpp>
@@ -17,3 +19,4 @@ public:
 
 };
 
+#endif

@@ -160,10 +160,10 @@
     <ClCompile Include="Source\MeshBuilder.cpp" />
     <ClCompile Include="Source\MouseController.cpp" />
     <ClCompile Include="Source\SceneAssignment2.cpp" />
+    <ClCompile Include="Source\SceneShooting.cpp" />
     <ClCompile Include="Source\shader.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\DXGL updated\Application\Source\SceneAssignment2.h" />
     <ClInclude Include="Source\AltAzCamera.h" />
     <ClInclude Include="Source\Application.h" />
     <ClInclude Include="Source\Camera.h" />
@@ -178,6 +178,8 @@
     <ClInclude Include="Source\MeshBuilder.h" />
     <ClInclude Include="Source\MouseController.h" />
     <ClInclude Include="Source\Scene.h" />
+    <ClInclude Include="Source\SceneAssignment2.h" />
+    <ClInclude Include="Source\SceneShooting.h" />
     <ClInclude Include="Source\shader.hpp" />
     <ClInclude Include="Source\Vertex.h" />
   </ItemGroup>

@@ -1,12 +1,11 @@
-﻿#pragma once
+﻿#ifndef CAMERA_H​
+#define CAMERA_H
+
 // GLM Headers
 #include <glm\glm.hpp>
 #include <glm\gtc\matrix_transform.hpp>
 #include <glm\gtc\type_ptr.hpp>
 
-#ifndef CAMERA_H​
-
-#define CAMERA_H
 class Camera
 {
 public:

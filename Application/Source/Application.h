@@ -3,7 +3,7 @@
 #define APPLICATION_H
 
 #include "timer.h"
-#include "SceneAssignment2.h"
+//#include "SceneAssignment2.h"
 
 class Application
 {

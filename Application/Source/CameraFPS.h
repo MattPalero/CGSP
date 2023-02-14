@@ -1,11 +1,8 @@
 ﻿#ifndef CAMERA_FPS_H
-
 #define CAMERA_FPS_H​
 
 #include "Camera.h"
-class CameraFPS :
-
-    public Camera
+class CameraFPS : public Camera
 {
 public:
     

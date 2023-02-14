@@ -14,7 +14,8 @@
 #include "KeyboardController.h"
 #include "MouseController.h"
 
-#include "SceneAssignment2.h"
+//#include "SceneAssignment2.h"
+#include "SceneShooting.h"
 
 
 
@@ -139,7 +140,7 @@ void Application::Run()
 {
 	
 	
-		Scene* scene = new SceneAssignment2();
+		Scene* scene = new SceneShooting();
 		scene->Init();
 
 

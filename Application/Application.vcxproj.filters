@@ -57,6 +57,9 @@
     <ClCompile Include="Source\gameObject.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Source\SceneShooting.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Source\Scene.h">
@@ -107,7 +110,10 @@
     <ClInclude Include="Source\gameObject.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\DXGL updated\Application\Source\SceneAssignment2.h">
+    <ClInclude Include="Source\SceneShooting.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\SceneAssignment2.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
